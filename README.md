@@ -3,7 +3,7 @@ Music composition using Genetic Algorithms.
 
 ## Installation
 To run this program, please install timidity (from apt-get) and pyknon `sudo pip install pyknon` first.
-Clone the repository into your local machine. `git clone https://github.com/sanjaybv/etunes.git`
+Clone the repository into your local machine. `git clone https://github.com/mehulviby/etunes.git`
 
 ## Running
 To run the program type in "python etunes.py \<name-of-your-tune\>".
